@@ -1,0 +1,5 @@
+2019-06-04 08:19:30.316 Reactotron[13670:204016] *** WARNING: Textured window <AtomNSWindow: 0x7fc26976b1b0> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+08:19:30.453 › Checking for update
+08:19:34.709 › Update for version 2.15.1 is not available (latest version: 2.15.1, downgrade is disallowed).
+08:19:34.718 › checkForUpdatesAndNotify called, downloadPromise is null
+2019-06-04 08:20:15.107 Reactotron Helper[13672:204075] Couldn't set selectedTextBackgroundColor from default ()

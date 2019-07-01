@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>395723612651-j56g48tkf5n9rgc8op670jkm7tfhgqm9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.395723612651-j56g48tkf5n9rgc8op670jkm7tfhgqm9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOavY_uD-2Qj6acCCZ9qoiZdQ1SI5VzmQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>395723612651</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bi-kay.impactexplorer</string>
+	<key>PROJECT_ID</key>
+	<string>impact-explorer-1553150743912</string>
+	<key>STORAGE_BUCKET</key>
+	<string>impact-explorer-1553150743912.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:395723612651:ios:cab397090eea149a</string>
+	<key>DATABASE_URL</key>
+	<string>https://impact-explorer-1553150743912.firebaseio.com</string>
+</dict>
+</plist>
