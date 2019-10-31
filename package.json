@@ -39,7 +39,7 @@
     "moment": "^2.24.0",
     "native-base": "^2.12.1",
     "prop-types": "^15.6.1",
-    "querystringify": "1.0.0",
+    "querystringify": "2.1.1",
     "ramda": "^0.26.1",
     "react": "16.6.3",
     "react-native": "^0.59.1",
